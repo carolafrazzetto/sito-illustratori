@@ -1,0 +1,168 @@
+body{
+    font-family: 'Lora', serif;
+    margin: 0;
+    max-width: min-content;
+}
+.testata{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    font-size: 20px;
+}
+.sito h1{
+    margin-left: 100px;
+}
+
+.tasti nav ul{
+    margin-right: 50px;
+    list-style: none;
+    word-spacing: 20px;
+    font-size: 20px;
+}
+
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.img1{
+    display: block;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+    max-width: 100%;
+}
+
+.icone {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    margin-top: 100px;
+  }
+  .preview1 {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: auto;
+    padding-left: 20px;
+  }
+
+  .preview2 {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 50px;
+    padding-left: 20px;
+  }
+
+  .nomi {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    padding-left: 20px;
+  }
+  
+  .nomi {
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+}
+
+.nomi2 {
+display: flex;
+justify-content: space-between;
+width: auto;
+padding-left: 10px;
+}
+
+.fritz{
+    font-family: 'Lora', serif;
+    margin: auto;
+    max-width: 1400px;
+}
+.nome{
+  padding-top: 50px;
+  padding-left: 100px;
+  font-size: 30px;
+}
+.bio{
+  margin-bottom: 100px;
+    margin-left: 25%;
+    max-width: 50%;
+    font-size: 20px;
+    display: block;
+}
+.bio p{
+  text-align: center;
+  align-items: center;
+}
+.img3 {
+    display: flex;
+    justify-content: space-between;
+    max-width: 70%;
+    padding-left: 150px;
+    padding-top: 100px;
+  }
+
+.img3 img{
+  max-width: 50%;
+  padding: 10px;
+  margin: 10px;
+}
+
+  .img2 {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    max-width: 70%;
+    padding-left: 150px;
+    padding-top: 100px;
+  }
+
+  .img2 img{
+    max-width: 50%;
+    padding: 10px;
+    margin: 10px;
+  }
+
+  .foot{
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 20px;
+    font-size: 10px;
+  }
+
+.tim{
+  font-family: 'Lora', serif;
+    margin: auto;
+    max-width: 1400px;
+}
+
+.karlotta{
+  font-family: 'Lora', serif;
+    margin: auto;
+    max-width: 1400px;
+}
+
+.camilo {
+  font-family: 'Lora', serif;
+    margin: auto;
+    max-width: 1400px;
+}
+.boca{
+  font-family: 'Lora', serif;
+  margin: auto;
+  max-width: 1400px;
+}
+.xohana {
+  font-family: 'Lora', serif;
+  margin: auto;
+  max-width: 1400px;
+}
+.chisiamo {
+  font-family: 'Lora', serif;
+  margin: auto;
+  max-width: 1400px;
+}
